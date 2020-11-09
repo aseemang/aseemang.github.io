@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/aseemang/aseemang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Geospatial Information Sciences student with a particular interest in remote sensing. My primary focus is applications for intelligence and defense, but you will also see many projects in the scope of environmental science here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Other interests include Python, CAD, and Russian. 
 
 ### Markdown
 
