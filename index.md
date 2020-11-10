@@ -4,9 +4,9 @@ I am a Geospatial Information Sciences student with a particular interest in rem
 
 Other interests include Python, CAD, and Russian. 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See all projects [here.](aseemang.github.io/project_page.md)
 
 ```markdown
 Syntax highlighted code block
